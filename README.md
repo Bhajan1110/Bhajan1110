@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhajan1110
+- 👋 Hi, I’m @Vivek Singh Chauhan
 - 👀 I’m interested in ...Analytics & Data Science
 - 🌱 I’m currently learning ...ML Algorithms, EDA & PCA.
 - 💞️ I’m looking to collaborate on ...
