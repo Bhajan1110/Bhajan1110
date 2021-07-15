@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek Singh Chauhan
 - 👀 I’m interested in ...Analytics & Data Science | Machine Learning 
-- 🌱 I’m currently learning ...ML Algorithms like Linear and Logistic Regression, Random Forest, Clustering, Association Rule Mining, and SVM.
+- 🌱 I’m currently learning ... Regression, Classification, and Clustering Machine Learning Algorithms. Also focusing on Association Rule Mining, Principal Component Analysis, Market Basket Analysis.
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...| viveksinghchauhan@iitkgp.ac.in | vivekchauhandakshana233@gmail.com |
