@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vivek Singh Chauhan
+- 👋 Hi, I’m @Vivek
 - 👀 I’m interested in ...Analytics & Data Science | Machine Learning 
 - 🌱 I’m currently learning ... Regression, Classification, and Clustering Machine Learning Algorithms. Also focusing on Association Rule Mining, Principal Component Analysis, Market Basket Analysis.
 - 
